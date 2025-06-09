@@ -13,36 +13,18 @@ public class HomeScreen extends Activity {
     }
 }
 
-//🔗 Android Developer Portal  
-//   https://developer.android.com  
-//   (Official documentation, API guides, and Jetpack libraries)
+//Google. (n.d.). Android developers. https://developer.android.com
 //
-//🔗 Android Studio User Guide  
-//   https://developer.android.com/studio/intro  
-//   (Installation, setup, Gradle, and emulator instructions)
+//Google. (n.d.). Android Studio user guide. https://developer.android.com/studio/intro
 //
-//🔗 Android Codelabs  
-//   https://developer.android.com/codelabs  
-//   (Hands-on tutorials for Room, ViewModel, Compose, etc.)
+//Google. (n.d.). Android Codelabs. https://developer.android.com/codelabs
 //
-//🔗 Android API Reference  
-//   https://developer.android.com/reference  
-//   (Full SDK API list for Java & Kotlin)
+//Google. (n.d.). Android API reference. https://developer.android.com/reference
 //
-//🔗 Stack Overflow - Android  
-//   https://stackoverflow.com/questions/tagged/android  
-//   (Community Q&A, error troubleshooting)
+//Stack Overflow. (n.d.). Android tag – Stack Overflow. https://stackoverflow.com/questions/tagged/android
 //
-//🔗 Android GitHub Samples  
-//   https://github.com/android  
-//   (Official sample projects for Android features)
+//Google. (n.d.). Android · GitHub. https://github.com/android
 //
-//🔗 Kotlin Playground  
-//   https://play.kotlinlang.org  
-//   (Practice Kotlin syntax online)
+//JetBrains. (n.d.). Kotlin Playground. https://play.kotlinlang.org
 //
-//🔗 JetBrains Academy  
-//   https://www.jetbrains.com/academy/  
-//   (Courses for Kotlin, Java, Android development)
-
-
+//JetBrains. (n.d.). JetBrains Academy. https://www.jetbrains.com/academy/
