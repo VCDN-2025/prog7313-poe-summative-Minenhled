@@ -195,43 +195,7 @@
             <meta-data
                 android:name="androidx.profileinstaller.ProfileInstallerInitializer"
                 android:value="androidx.startup" />
-        </provider>
-
-
-        //🔗 Android Developer Portal  
-//   https://developer.android.com  
-//   (Official documentation, API guides, and Jetpack libraries)
-//
-//🔗 Android Studio User Guide  
-//   https://developer.android.com/studio/intro  
-//   (Installation, setup, Gradle, and emulator instructions)
-//
-//🔗 Android Codelabs  
-//   https://developer.android.com/codelabs  
-//   (Hands-on tutorials for Room, ViewModel, Compose, etc.)
-//
-//🔗 Android API Reference  
-//   https://developer.android.com/reference  
-//   (Full SDK API list for Java & Kotlin)
-//
-//🔗 Stack Overflow - Android  
-//   https://stackoverflow.com/questions/tagged/android  
-//   (Community Q&A, error troubleshooting)
-//
-//🔗 Android GitHub Samples  
-//   https://github.com/android  
-//   (Official sample projects for Android features)
-//
-//🔗 Kotlin Playground  
-//   https://play.kotlinlang.org  
-//   (Practice Kotlin syntax online)
-//
-//🔗 JetBrains Academy  
-//   https://www.jetbrains.com/academy/  
-//   (Courses for Kotlin, Java, Android development)
-
-
-
+        </provider>   
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
@@ -263,3 +227,20 @@
     </application>
 
 </manifest>
+
+
+//Google. (n.d.). Android developers. https://developer.android.com
+//
+//Google. (n.d.). Android Studio user guide. https://developer.android.com/studio/intro
+//
+//Google. (n.d.). Android Codelabs. https://developer.android.com/codelabs
+//
+//Google. (n.d.). Android API reference. https://developer.android.com/reference
+//
+//Stack Overflow. (n.d.). Android tag – Stack Overflow. https://stackoverflow.com/questions/tagged/android
+//
+//Google. (n.d.). Android · GitHub. https://github.com/android
+//
+//JetBrains. (n.d.). Kotlin Playground. https://play.kotlinlang.org
+//
+//JetBrains. (n.d.). JetBrains Academy. https://www.jetbrains.com/academy/
