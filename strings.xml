@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="expense_title">Expense Title</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="save_expense">Save Expense</string>
+    <string name="select_date">Select Date</string>
+    <string name="total_expenses">Total Expenses</string>
+
+    <string name="no_expenses">No expenses yet</string>
+    <string name="add_first_expense">Add your first expense by tapping the + button</string>
+
+    <!-- Categories -->
+    <string name="category_food">Food &amp; Dining</string>
+    <string name="category_transportation">Transportation</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_entertainment">Entertainment</string>
+    <string name="category_bills">Bills &amp; Utilities</string>
+    <string name="category_healthcare">Healthcare</string>
+    <string name="category_education">Education</string>
+    <string name="category_travel">Travel</string>
+    <string name="category_other">Other</string>
+
+    <!-- Error messages -->
+    <string name="error_title_required">Title is required</string>
+    <string name="error_amount_required">Amount is required</string>
+    <string name="error_invalid_amount">Invalid amount</string>
+    <string name="error_amount_positive">Amount must be greater than 0</string>
+    <string name="error_add_expense">Failed to add expense</string>
+    <string name="success_expense_added">Expense added successfully</string>
+    <string name="Total_Expenses">Total Expenses</string>
+    <string name="_0_00">$0.00</string>
+
+
+    <string name="category_spinner_desc">Category selection</string>
+
+    <string name="today">Today</string>
+    <string name="selected_date">Selected date</string>
+
+    <string name="description_optional">Description (Optional)</string>
+    <string name="Select_Date">Select Date</string>
+    <string name="Expense_Title">Expense Title</string>
+    <string name="Amount">Amount</string>
+    <string name="category_food_dining" />
+    <string name="category_bills_utilities" />
+    <string name="graphs_analytics"><![CDATA[Graphs & Analytics]]></string>
+    <string name="graph_content_goes_here">Graph content goes here</string>
+    <string name="manage_categories">Manage Categories</string>
+    <string name="spending_goals">Spending Goals</string>
+    <string name="total_spending">Total: $%1$s</string>
+    <string name="saving" />
+    <string name="failed_to_add_expense" />
+    <string name="expense_added_successfully" />
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+</resources>
